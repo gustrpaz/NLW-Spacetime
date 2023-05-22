@@ -8,15 +8,7 @@
 <p> Projeto realizado na Next Level Week #12, funciona como uma linha do tempo, ou seja, é possível cadastrar memórias adicionando uma legenda e optando por torná-lo público ou privado, é possível se cadastrar a partir de uma conta no Git Hub. Existe a versão para web e a versão mobile.</p>
 
 ## Técnologias 🖥️
-- Nesse projeto foi utilizado:
-- JavaScript
-- HTML
-- CSS
-- TypeScript
 
-- Next Js
-- Type Script
--
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
