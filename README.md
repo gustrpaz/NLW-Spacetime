@@ -5,13 +5,13 @@
 <img src="https://uploaddeimagens.com.br/images/004/475/822/full/Thumbnail.png?1684719103"></img>
 
 
-## Cápsula do Tempo 🚀
+### Cápsula do Tempo 🚀
 <p> Projeto realizado na Next Level Week #12, funciona como uma linha do tempo, ou seja, é possível cadastrar memórias adicionando uma legenda e optando por torná-lo público ou privado, é possível se cadastrar a partir de uma conta no Git Hub. Existe a versão para web e a versão mobile.</p>
 
 
 
-## Técnologias 🖥️
-<div style="height:100px"><p></p></div>
+### Técnologias 🖥️
+
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
