@@ -1,5 +1,5 @@
 <div style="width:100%; height: 200px; display: flex; align-items: center;;justify-content: space-between;">
-  <h1> NLW-Spacetime Rocketseat Trilha Ignite - <img style="width: 60px; height: 60px" src="https://yt3.googleusercontent.com/ytc/AGIKgqMyeURlC9A1NyCFMkUGNlZdJD65UrY-PT6drmTYVA=s900-c-k-c0x00ffffff-no-rj"></img></h1>
+  <h1> NLW-Spacetime Rocketseat Trilha Ignite - <img style="width: 60px; height: 60px" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/62d86b52dd890b4acef46ec3_OG-ignite.jpg"></img></h1>
 </div>
 
 <img src="https://uploaddeimagens.com.br/images/004/475/822/full/Thumbnail.png?1684719103"></img>
