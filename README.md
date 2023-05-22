@@ -11,7 +11,7 @@
 
 
 ## Técnologias 🖥️
-<div style="height:100px"></div>
+<div style="height:100px">.</div>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
