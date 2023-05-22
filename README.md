@@ -5,12 +5,12 @@
 <img src="https://uploaddeimagens.com.br/images/004/475/822/full/Thumbnail.png?1684719103"></img>
 
 
-## Cápsula do Tempo 🚀
+## 🚀 Cápsula do Tempo 
 <p> Projeto realizado na Next Level Week #12, funciona como uma linha do tempo, ou seja, é possível cadastrar memórias adicionando uma legenda e optando por torná-lo público ou privado, é possível se cadastrar a partir de uma conta no Git Hub. Existe a versão para web e a versão mobile.</p>
 
 <br>
 
-## Tecnologias ⚙️
+## ⚙️ Tecnologias ⚙
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
@@ -22,14 +22,14 @@
 
 <br>
 
-## Versão Web 🖥️:
+## 🖥️ Versão Web 
 <img src="https://uploaddeimagens.com.br/images/004/475/844/full/web.png?1684721419"></img>
 
-### Versão Mobile 📱:
+## 📱 Versão Mobile
 <img src="https://uploaddeimagens.com.br/images/004/475/854/full/mobile.jpg?1684721614"></img>
 
 <br>
 
-## Contato ✉️:
+## ✉️ Contato ✉
 <a href="https://www.linkedin.com/in/gustavo-rezende-paz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="mailto:grezendepaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
