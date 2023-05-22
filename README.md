@@ -6,7 +6,7 @@
 
 
 ## 🚀 Cápsula do Tempo 
-<p> Projeto realizado na Next Level Week #12, funciona como uma linha do tempo, ou seja, é possível cadastrar memórias adicionando uma legenda e optando por torná-lo público ou privado, é possível se cadastrar a partir de uma conta no Git Hub. Existe a versão para web e a versão mobile.</p>
+<p> Projeto realizado na Next Level Week #12 da Rocketseat, funciona como uma linha do tempo, ou seja, é possível cadastrar memórias adicionando uma legenda e optando por torná-lo público ou privado, é possível se cadastrar a partir de uma conta no Git Hub. Existe a versão para web e a versão mobile.</p>
 
 <br>
 
